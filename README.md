@@ -16,7 +16,7 @@ A modular WhatsApp bot built with [Baileys](https://github.com/WhiskeySockets/Ba
 
 1. **Clone & Install**
     ```sh
-    git clone <your-repo-url>
+    git clone [<(https://github.com/eulfn/WhatsappBot-EMS)>]
     cd Bot-EMS
     npm install
     ```
